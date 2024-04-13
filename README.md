@@ -7,8 +7,8 @@ MDTK is a helpful aid for authors who write Markdown, consisting of Vale style r
 1. Install the required components:
 
     * [Visual Studio Code](https://code.visualstudio.com/)
-    * [Vale CLI](https://docs.errata.ai/vale/install)
-    * [Vale Extension](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server)
+    * [Vale CLI](https://vale.sh/docs/vale-cli/installation/)
+    * [Vale Extension](https://marketplace.visualstudio.com/items?itemName=chrischinchilla.vale-vscode)
     * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
     * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 

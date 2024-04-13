@@ -12,7 +12,7 @@ extends: existence
 message: "Avoid '%s' in the link text. Use meaningful links to improve accessibility and optimize search results."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
-scope: link
+scope: raw
 ignorecase: true
 tokens:
   - here
